@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Blake Loveless
+- 👀 I’m interested in web development
+- 🌱 I’m currently studying Computer Science at Portland State University
+- 📫 How to reach me baloveless@icloud.com
